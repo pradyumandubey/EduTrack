@@ -1,17 +1,53 @@
-EduTrack – Learning Management System (LMS)
-Tech Stack: Java, Spring Boot, Spring Security, MySQL, Hibernate, JWT, REST API
-Duration: Dec 2024 – Feb 2025
 
-* Developed a full-featured backend system for an LMS platform enabling course creation, student enrollment, content delivery, and performance tracking.
+# 📘 EduTrack – Learning Management System (LMS)
 
-* Implemented role-based access control for Admin, Instructor, and Student roles using Spring Security and JWT, ensuring secure and personalized access to resources.
+A full-featured backend platform built to simplify digital learning and academic management through secure, scalable, and modular REST APIs.
 
-* Designed RESTful APIs for managing courses, users, quizzes, progress reports, and feedback, facilitating smooth integration with frontend and mobile clients.
+---
 
-* Integrated MySQL and Hibernate for persistent data storage, enabling efficient relational mapping and complex queries on course and user datasets.
+## 🚀 Tech Stack
 
-* Achieved 98% uptime and improved API response speed by 30% through performance tuning, connection pooling, and query optimization.
+- **Language & Framework**: Java, Spring Boot  
+- **Security**: Spring Security, JWT Authentication  
+- **Database**: MySQL, Hibernate ORM  
+- **API**: RESTful APIs, Swagger  
+- **Tools**: Postman, Maven
 
-* Applied input validation, global exception handling, and status-based response messages to enhance API reliability and usability.
+---
 
-* Documented the API using Swagger and tested endpoints with Postman to ensure complete and consistent backend functionality.
+## 📅 Duration
+**December 2024 – February 2025**
+
+---
+
+## 🔑 Key Features
+
+- 🔧 **Backend-Only LMS Architecture** – Designed to support frontend/mobile clients via RESTful APIs.
+- 👥 **Role-Based Access Control** – Admin, Instructor, and Student roles implemented using Spring Security & JWT.
+- 📚 **Course Management System** – Supports creation of courses, enrollment workflows, and real-time progress tracking.
+- 📊 **Performance & Optimization** – Achieved 98% uptime and improved API response by 30% using query optimization and connection pooling.
+- 📂 **Reliable Data Handling** – MySQL + Hibernate integration for persistent, relational data management.
+- 🛡️ **Robust Validation & Error Handling** – Global exception handlers and consistent status codes for stable API usage.
+- 🧪 **Comprehensive Testing** – Endpoints tested via Postman; APIs documented using Swagger UI for better developer experience.
+
+---
+
+## 📸 API Preview
+
+> Swagger Documentation URL: _Coming Soon_  
+> Sample Postman Collection: _Available on Request_
+
+---
+
+## 🤝 Contributions Welcome
+
+Open to suggestions, feature additions, or frontend collaboration. Let’s build something impactful for education together!
+
+---
+
+## 📫 Contact
+
+**Pradyuman Dubey**  
+[📧 Email](mailto:dubeypradyum2002@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/pradyuman-dubey) • [💻 GitHub](https://github.com/pradyumandubey)
+
+---
