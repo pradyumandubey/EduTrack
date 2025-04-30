@@ -16,7 +16,7 @@ A full-featured backend platform built to simplify digital learning and academic
 ---
 
 ## 📅 Duration
-**December 2024 – February 2025**
+**Jul 2024 – Aug 2024**
 
 ---
 
